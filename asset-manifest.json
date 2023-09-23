@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/restro.github.io/static/css/main.5bde01d4.css",
+    "main.js": "/restro.github.io/static/js/main.d9bf6e44.js",
+    "static/media/meal.mp4": "/restro.github.io/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/restro.github.io/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/restro.github.io/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/restro.github.io/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/restro.github.io/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/utsav.png": "/restro.github.io/static/media/utsav.2687861c4fbd12c331d6.png",
+    "static/media/chef.png": "/restro.github.io/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/restro.github.io/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/restro.github.io/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/restro.github.io/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/restro.github.io/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/log.png": "/restro.github.io/static/media/log.756e1fb2ef8c145acc10.png",
+    "static/media/gallery01.png": "/restro.github.io/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/restro.github.io/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/restro.github.io/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/signature.png": "/restro.github.io/static/media/signature.aeaeca18901b5188d07c.png",
+    "static/media/G.png": "/restro.github.io/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/restro.github.io/static/media/logo.b17d2d728053ef2318cb.png",
+    "static/media/award02.png": "/restro.github.io/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/restro.github.io/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/restro.github.io/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/restro.github.io/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/restro.github.io/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/restro.github.io/index.html",
+    "static/media/spoon.svg": "/restro.github.io/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.5bde01d4.css.map": "/restro.github.io/static/css/main.5bde01d4.css.map",
+    "main.d9bf6e44.js.map": "/restro.github.io/static/js/main.d9bf6e44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bde01d4.css",
+    "static/js/main.d9bf6e44.js"
+  ]
+}
